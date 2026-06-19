@@ -12,6 +12,7 @@ exploring how India's digital payment behaviour actually evolved.
 
 ![UPI Volume Growth](charts/chart1_upi_volume_growth.png)
 ![Average Transaction Value Decline](charts/chart4_avg_transaction_value.png)
+![Seasonality Heatmap](charts/chart5_seasonality_heatmap.png)
 
 ## The Core Insight
 Volume and value moved in opposite directions, as UPI scaled, the average payment got smaller 
